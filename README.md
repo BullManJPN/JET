@@ -24,6 +24,10 @@ Cloud translation tools send your meeting audio to a server. JET is built around
 - **Adjustable look.** Background density, light/dark appearance, font and text size, from a settings panel inside the window.
 - **Menu bar app.** Start, pause and quit from the window bar or the menu bar. Mic and system audio are both supported.
 
+![The same JET window with the background density turned up](docs/images/jet-window-dense.png)
+
+*The same illustration with a denser background: the slide no longer shows through, and the captions stand out. A lighter setting (top) lets you keep an eye on a shared slide behind the window.*
+
 ## Privacy by design
 
 - The app source contains no networking code (no `URLSession` or similar). Recognition and translation use on-device Apple frameworks.
