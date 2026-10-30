@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# build outputs
+jetcli
+JET.app/
+
+# local data (never commit)
+jet.user.json
+logs/
+results/
+samples/
+_public/

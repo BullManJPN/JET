@@ -1,0 +1,21 @@
+Claude Code
+Claude
+Anthropic
+SDK
+MCP
+API
+MLX
+Apple silicon
+Mac mini
+quantization
+RAG
+Hugging Face
+Ollama
+Kubernetes
+Swift
+Foundation Models
+Private Cloud Compute
+SpeechAnalyzer
+context window
+DeepSeek
+MLX LM

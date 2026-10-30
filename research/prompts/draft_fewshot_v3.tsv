@@ -1,0 +1,8 @@
+Thanks for coming in today.	本日はお越しいただきありがとうございます。
+Let's connect the model to Slack using MCP.	MCPを使ってモデルをSlackに接続しましょう。
+It handles tens of thousands of requests per second.	毎秒数万件のリクエストを処理します。
+Instead of sending the files one by one,	ファイルを1つずつ送るのではなく、
+The dataset is too big to load on a laptop.	データセットが大きすぎて、ノートPCでは読み込めません。
+We rarely deploy on Fridays.	金曜日にデプロイすることはめったにありません。
+We're looking for someone who can, um, own the whole	全体を担当できる人を探しています。
+and that's where the API comes in.	そこでAPIの出番です。

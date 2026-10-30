@@ -1,0 +1,33 @@
+# alias(regex, case-insensitive, word-bounded)<TAB>canonical<TAB>note
+claud	Claude	fuzzy variant
+clawed code	Claude Code	
+cloud code	Claude Code	
+claude coat	Claude Code	
+atropic	Anthropic	
+anthropick	Anthropic	
+spk	SDK	
+s d k	SDK	
+m c p	MCP	
+a p i	API	
+m l x	MLX	
+clod code	Claude Code	
+clod	Claude	clodは稀な英単語なので許容
+claod	Claude	ASR誤認識
+claoud	Claude	ASR誤認識
+claed	Claude	ASR誤認識
+claots	Claudes	ASR誤認識
+quad	Claude	ASR誤認識(AI話題前提。quad coreなど普通の用法が要るなら外す)
+molelex	MLX	ASR誤認識
+malexalan	MLX LM	ASR誤認識
+mlxlm	MLX LM	表記ゆれ
+mxlm	MLX LM	ASR誤認識
+alexlm	MLX LM	ASR誤認識
+haging phase	Hugging Face	ASR誤認識
+hugging phase	Hugging Face	ASR誤認識
+agetic	agentic	ASR誤認識
+aentic	agentic	ASR誤認識
+aent	agent	ASR誤認識
+deep sickk	DeepSeek	ASR誤認識
+deep sick	DeepSeek	ASR誤認識
+scrats	scratch	ASR誤認識
+scrout	scratch	ASR誤認識

@@ -1,0 +1,38 @@
+{
+  "K": 2,
+  "hold_last": 0,
+  "min_clause": 4,
+  "max_clause": 18,
+  "look_conj": ["and", "or"],
+  "keep_conj": ["which", "where"],
+  "smart_max": true,
+  "look_subj": ["he", "i", "i'm", "it", "it's", "she", "that's", "there", "there's", "they", "they're", "this", "we", "we're", "you", "you're"],
+  "soft_max": 3,
+  "early_after": 8.0,
+  "correct": true,
+  "coalesce_ms": 100,
+  "hold_unknown_s": 3.0,
+  "vocab": "asr/vocab.txt",
+  "terms": "asr/terms.txt",
+  "aliases": "asr/term_aliases.tsv",
+  "fuzzy_threshold": 0.84,
+  "draft": {
+    "enabled": true,
+    "system": "prompts/draft_system.txt",
+    "fewshot": "",
+    "greedy": true,
+    "user": "prompts/draft_user.txt",
+    "guard_en_ratio": 0.6
+  },
+  "events_dir": "logs",
+  "ui": {
+    "panel_width": 536,
+    "panel_height": 640,
+    "flow_pt": 19,
+    "flow_keep": 60,
+    "flow_fade": 6,
+    "flow_min_opacity": 0.2,
+    "flow_en_pt": 13
+  },
+  "asr": { "locale": "en-US", "preset": "timeIndexedProgressiveTranscription", "prepare": true }
+}

@@ -1,0 +1,23 @@
+# 質問箱のデフォルトの型(10/29 案)。___ = 字幕から拾った語が入る場所。slot 0 = 語なしでそのまま使える
+# カナは「実際に聞こえる音」(つながる・消える音を反映)。手書きなので、耳で聞いて直してよい
+# id	group	slot	ja	biz_en	biz_kana	casual_en	casual_kana
+again	確認	0	もう一度言ってもらえますか	Could you say that again, please?	クッジュー セイ ザッタゲン プリーズ	Sorry, say that again?	ソーリー セイ ザッタゲン
+slow	確認	0	もう少しゆっくり話してもらえますか	Could you speak a little more slowly?	クッジュー スピーカ リル モア スロウリー	Could you slow down a bit?	クッジュー スロウ ダウナ ビッ
+mean	確認	1	確認ですが、___ということですか	Just to confirm, do you mean ___?	ジャスッタ コンファーム ドゥユー ミーン ___	So you mean ___?	ソウ ユー ミーン ___
+what	質問	1	___とは何ですか	Could you explain what ___ is?	クッジュー イクスプレイン ワッ ___ イズ	What's ___?	ワッツ ___
+more	質問	1	___について詳しく教えてもらえますか	Could you tell us more about ___?	クッジュー テラス モア アバウッ ___	Can you tell me more about ___?	キャニュー テゥミー モア アバウッ ___
+else	質問	1	___の他にはありますか	Is there anything else besides ___?	イズ ゼア エニシン エゥス ビサイズ ___	Anything else besides ___?	エニシン エゥス ビサイズ ___
+when	質問	1	___はいつまでですか	When is the deadline for ___?	ウェニズ ザ デッドライン フォー ___	When does ___ need to be done?	ウェン ダズ ___ ニートゥビ ダン
+who	質問	1	___は誰が担当しますか	Who will be in charge of ___?	フー ウィゥビー イン チャージョヴ ___	Who's handling ___?	フーズ ハンドリン ___
+how	質問	1	___はどうやって測りますか	How will we measure ___?	ハウ ウィゥ ウィ メジャー ___	How do we track ___?	ハウ ドゥ ウィ トラッ ___
+why	質問	1	___の理由を教えてもらえますか	Could you share the reason for ___?	クッジュー シェア ザ リーズン フォー ___	What's the reason for ___?	ワッツ ザ リーズン フォー ___
+example	質問	1	___の例を挙げてもらえますか	Could you give an example of ___?	クッジュー ギヴァン イグザンポォ オヴ ___	Got an example of ___?	ガッタン イグザンポォ オヴ ___
+impact	質問	1	___は私たちのチームにどう影響しますか	How will ___ affect our team?	ハウ ウィゥ ___ アフェクト アワ ティーム	How does ___ affect us?	ハウ ダズ ___ アフェクタス
+slides	質問	0	資料は後で共有されますか	Will the slides be shared after the meeting?	ウィゥ ザ スライズ ビ シェアーダフター ザ ミーティン	Can you share the slides later?	キャニュー シェア ザ スライズ レイター
+askfirst	前置き	0	一つ質問してもいいですか	May I ask a question?	メイアイ アスカ クエスチョン	Can I ask something?	キャナイ アスク サムシン
+add	前置き	1	___について補足させてください	I'd like to add something about ___.	アイドライク トゥ アッ サムシン アバウッ ___	One more thing about ___.	ワン モア シン アバウッ ___
+nothing	返答	0	特にありません、ありがとうございます	Nothing from me. Thank you.	ナッシン フロム ミー サンキュー	I'm good, thanks.	アイム グッ サンクス
+clear	返答	0	ありがとうございます、よく分かりました	Thank you, that's very clear.	サンキュー ザッツ ヴェリー クリア	Got it, thanks!	ガリッ サンクス
+check	返答	0	確認して後でご連絡します	Let me check and get back to you.	レッミー チェッカン ゲッバッ トゥ ユー	Let me check and let you know.	レッミー チェッカン レッチュー ノウ
+agree	返答	0	良いと思います	That sounds good to me.	ザッ サウンズ グッ トゥ ミー	Sounds good!	サウンズ グッ
+thanks	締め	0	ありがとうございました	Thank you for your time.	サンキュー フォー ユア タイム	Thanks a lot!	サンクサ ロッ

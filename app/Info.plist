@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key><string>local.jet.JET</string>
+    <key>CFBundleIconFile</key><string>JET</string>
+    <key>CFBundleName</key><string>JET</string>
+    <key>CFBundleDisplayName</key><string>JET</string>
+    <key>CFBundleExecutable</key><string>JET</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>0.1</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>26.0</string>
+    <key>LSUIElement</key><true/>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>英語の音声を聞き取って日本語に訳すために、マイクを使います。音声は保存されません。</string>
+    <key>NSAudioCaptureUsageDescription</key>
+    <string>会議などのシステム音声を聞き取って日本語に訳すために使います。音声は保存されません。</string>
+    <key>NSSpeechRecognitionUsageDescription</key>
+    <string>英語の音声を文字にして日本語に訳すために、この Mac の音声認識を使います。</string>
+</dict>
+</plist>
