@@ -14,10 +14,10 @@
     <key>LSUIElement</key><true/>
     <key>NSHighResolutionCapable</key><true/>
     <key>NSMicrophoneUsageDescription</key>
-    <string>英語の音声を聞き取って日本語に訳すために、マイクを使います。音声は保存されません。</string>
+    <string>英語の音声を聞き取って日本語に訳すために、マイクを使います。音声は保存されません。 / JET uses the microphone to transcribe English speech and translate it into Japanese. Audio is never saved.</string>
     <key>NSAudioCaptureUsageDescription</key>
-    <string>会議などのシステム音声を聞き取って日本語に訳すために使います。音声は保存されません。</string>
+    <string>会議などのシステム音声を聞き取って日本語に訳すために使います。音声は保存されません。 / JET captures system audio, such as a web meeting, to transcribe and translate it into Japanese. Audio is never saved.</string>
     <key>NSSpeechRecognitionUsageDescription</key>
-    <string>英語の音声を文字にして日本語に訳すために、この Mac の音声認識を使います。</string>
+    <string>英語の音声を文字にして日本語に訳すために、この Mac の音声認識を使います。 / JET uses on-device speech recognition to transcribe English speech.</string>
 </dict>
 </plist>

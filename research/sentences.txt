@@ -1,12 +1,12 @@
 Thanks for joining us today.
-Could you walk us through your background and what drew you to this role?
+Could you walk us through the current architecture and what drove that design?
 So, um, the main thing we're looking at this quarter is reducing the latency of the pipeline.
-I'd like to hear how you handled a disagreement with a teammate on a technical decision.
+I'd like to hear how the team handled the disagreement on the storage decision.
 We use MCP servers to connect the model to internal tools, and we've been iterating on the evaluation harness.
 Let me share my screen real quick, can everyone see the dashboard?
-What would you say is your biggest strength when it comes to debugging production incidents?
+What would you say is our biggest gap when it comes to debugging production incidents?
 We're aiming to ship the beta by the end of next month, but the timeline depends on the security review.
 Any questions before we move on to the next agenda item?
 That's a great point, and I think we should loop in the data team before we finalize the plan.
 Honestly, I think the trade-off here is between accuracy and response time, and we need to decide which one matters more for our customers.
-Do you have any experience working with distributed teams across different time zones?
+Does anyone have experience working with distributed teams across different time zones?

@@ -33,9 +33,11 @@ cp jet.json "$APP/Contents/Resources/"
 for f in draft_system.txt draft_user.txt qbox_system.txt qbox_user.txt qbox_templates.tsv; do
   cp "prompts/$f" "$APP/Contents/Resources/prompts/"
 done
-for f in cmudict.dict cmudict.LICENSE terms.txt term_aliases.tsv vocab.txt; do
+for f in cmudict.dict cmudict.LICENSE terms.txt term_aliases.tsv vocab.txt vocab.LICENSE; do
   cp "asr/$f" "$APP/Contents/Resources/asr/"
 done
+
+cp THIRD_PARTY_NOTICES.md "$APP/Contents/Resources/"
 
 ID="${JET_SIGN_ID:-JET Local Signing}"
 if ! security find-identity -p codesigning 2>/dev/null | grep -q "\"$ID\""; then
