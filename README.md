@@ -12,6 +12,10 @@ JET listens to English audio — your microphone, or the system audio of a web m
 
 *Illustration composed for this README (not a screen capture). The slide behind the window is an original AI-generated image; the captions and questions are invented sample text.*
 
+![Animated illustration: captions flow upward, then the background density is lowered from the settings panel](docs/images/jet-demo.gif)
+
+*Animated illustration (not a screen recording): new lines enter from the bottom and older ones fade as they move up; the settings panel then lowers the background density so a shared slide shows through.*
+
 ## Why
 
 Cloud translation tools send your meeting audio to a server. JET is built around the opposite constraint: everything stays on the machine, and nothing is left behind. It is meant for following English-heavy web meetings or English learning material in real time, and for getting a little help with what to say next.
